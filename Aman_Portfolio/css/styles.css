@@ -4238,3 +4238,8 @@ img.u-pull-left {
         right : 6vw;
     }
 }
+    
+                        .certificate-card:hover {
+                            transform: scale(1.03); /* Slight zoom-in */
+                            box-shadow: 0 4px 8px rgba(0, 188, 212, 0.2); /* Subtle glow */
+                        }
